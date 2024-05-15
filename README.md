@@ -66,6 +66,23 @@ Sua frota é composta por veículos zero km e veículos comprados usados. Confor
 
 - Artigo sobre NNs e Preços de carros usados: https://www.mdpi.com/2071-1050/14/15/8993
 
+## Processo (Incompleto)
+**Feitos:**
+-Extração de dados
+   Através da plataforma https://brasilapi.com.br
+-Limpeza dos dados
+    Remoção de dados imprecisos, descnecessários e formatação de strings para valores inteiros
+-Construção da base de dados
+   Construção e armazenamento da base de dados
+-Criação de Rede
+  Definição de uma rede neural fully connected
+**Em desenvolvimento:**
+-Treinamento
+  Utilizar a base de dados para treinar os dados e obter um preditor de valores
+**Futuros:**
+-Outras redes
+-Melhoria da base de dados
+-Apresentação e Deploys
 
 ## Dicas
 - Seja objetivo com sua métrica de avaliação dos modelos: Seu tempo é seu maior ativo, não use variáveis que não fazem sentido ou cuja utilização não irá melhorar sensívelmente seu resultado
