@@ -1,0 +1,92 @@
+Mercedes-Benz
+Tesla
+Toyota
+Porsche
+BMW
+Volkswagen
+Honda
+Hyundai
+Ford
+Audi
+BYD
+Nissan
+Volvo
+Ferrari
+Chevrolet
+Kia
+Lexus
+Subaru
+Renault
+GMC
+Mahindra
+Acura
+Peugeot
+Isuzu
+Bentley
+Geely
+Polaris
+RAM Trucks
+Lincoln
+Rolls- Royce
+Maruti Suzuki
+Bajaj Auto
+Skoda
+Changan
+Mazda
+NIO
+LI AUTO
+Defender
+MAN
+Kenworth
+Han
+Fiat
+Iveco
+Song
+Jaguar
+Great Wall
+International Trucks
+Harley-Davidson
+Hero
+Polestar
+Mitsubishi
+FAW Jiefang
+MINI
+DAF
+Citroën
+Opel
+Tata Motors
+Xpeng
+Dacia
+Hino
+Maserati
+Aston Martin
+GAC
+Seres
+Tang
+TVS
+FISKER
+Dongfeng
+Foton
+Peterbilt
+Yutong
+Sinotruk
+Wuling
+Qin
+Discovery
+Rivian
+Ashok Leyland
+Daihatsu
+Royal Enfield
+Cupra
+Dodge Brand Logo	
+Dodge
+Alpine
+JAC Motors
+Oshkosh
+Seat Brand Logo
+Seat
+Yuan
+New Flyer
+Paccar
+Lucid Motors
+KTM
